@@ -1,6 +1,10 @@
-# I. The Compiler
+# The Compiler for #C and C++
 ---
-## → [compiler MinGW latest version](https://github.com/brechtsanders/winlibs_mingw/releases/download/15.2.0posix-13.0.0-msvcrt-r1/winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r1.zip)
+<br>
+
+# I. Installation Link
+---
+## → [compiler MinGW latest version](https://github.com/brechtsanders/winlibs_mingw/releases/download/15.2.0posix-13.0.0-msvcrt-r1/winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r1.zip) – [Brecht Sanders](https://github.com/brechtsanders/)
 <br>
 
 # II. Step by Step:
