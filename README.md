@@ -50,23 +50,25 @@ gcc --version
 ```
 <br>
 
-## 8. Compile and run test <br>
-```
-Create a file for #C and C++ File Extension
-Example:
-<file_name>.c
-<file_name>.cpp
-```
-
+## 8. Create a File for #C and C++ File Extension <br>
+- Example: <br> 1. <file_name>.c (#C) <br> 2. <file_name>.cpp (C++)
 <br>
 
-## 9. Run on the Terminal <br>
+## 9. Compile and run <br>
+### #C
 ```
 gcc <file_name>.c -o <file_name>.exe
+```
+```
 ./<file_name>.exe
 ```
+<br>
+
+### C++
 ```
 g++ <file_name>.cpp -o <file_name>.exe
+```
+```
 ./<file_name>.exe
 ```
 
