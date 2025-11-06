@@ -33,7 +33,7 @@
 
 ## 5. Edit environment variable <br>
 - Click "**New**" and paste the path where the extracted files from the ZIP are located. <br>
-- Example: C:\\**folder_name**\\<**extracted_file_name**> <br>
+- Example: C:\\<**folder_name**>\\<**extracted_file_name**> <br>
 - **Done? All [→ OK]**
 <br>
 
