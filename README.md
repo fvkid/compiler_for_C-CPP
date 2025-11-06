@@ -48,21 +48,29 @@ gcc --version
 
 ## 8. Compile and run test <br>
 ```
-Create a file with .c extension
-Example: <file\_name>.c
+Create a file for #C and C++ File Extension
+Example:
+<file_name>.c
+<file_name>.cpp
 ```
+
 <br>
 
 ## 9. Run on the Terminal <br>
-```-Terminal- <br>
+```
 gcc <file_name>.c -o <file_name>.exe
 ./<file_name>.exe
 ```
-<br>
+```
+g++ <file_name>.cpp -o <file_name>.exe
+./<file_name>.exe
+```
 
-# Note: <br>
-gcc → **compiler** <br>
-<file\_name>.c → **.c file name** <br>
--o <file\_name>.exe → **Executable File < Compile Result**
+### Note:
+- gcc ▸ **Compiler for #C**
+- g++ ▸ **Compiler for C++**
+- <file\_name>.c ▸ **#C File Extension**
+- <file\_name>.cpp ▸ **C++ File Extension**
+- -o <file\_name>.exe ▸ **Executable File < Compile Result**
 
 
