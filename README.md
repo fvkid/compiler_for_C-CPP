@@ -75,6 +75,6 @@ g++ <file_name>.cpp -o <file_name>.exe
 - g++ ▸ **Compiler for C++**
 - <file\_name>.c ▸ **#C File Extension**
 - <file\_name>.cpp ▸ **C++ File Extension**
-- -o <file\_name>.exe ▸ **Executable File < Compile Result**
+- -o <file\_name>.exe ▸ **Executable File ← Compile Result**
 
 
