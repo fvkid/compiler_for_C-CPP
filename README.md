@@ -40,7 +40,7 @@
 ## 6. Configuration C/C++ on Visual Studio Code <br>
 
 - **Ctrl + Shift + P** <br> 
-- Search and find "**C/C++: Edit Configurations (UI)**" <br>
+- Search and find "**C/C++: Edit Configurations (UI)**". <br>
 - **Enter** and **2 Options** exist: <br> 1. select a **detected compiler path** from *the drop-down list*. <br> 2. **fill the compiler path** with your *specify path*.
 <br>
 
