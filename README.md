@@ -12,12 +12,12 @@
 <br>
 
 ## 1. The Path
-- Extract **.zip**, create a **folder**, and copy **the path**.
-- Example: C:\\<**folder_name**> (*<folder_name> - it means the custom folder with name you've created and chosen the exist folder*).
+- Extract **.zip**, create a **folder**, and copy **the folder path**.
+- Example: C:\\<**folder_name**> (*<folder_name> - it means the custom folder with name you've created or choose the existing folder*).
 <br>
 
 ## 2. Search on Search Bar or Control Panel
-- Search and Open "**Edit the system environment variables**".
+- Search and open "**Edit the system environment variables**".
 - Search "**System**" on **Control Panel** and find "**Edit the system environment variables**".
 - Add the PATH environment variable.
 <br>
@@ -32,7 +32,7 @@
 <br>
 
 ## 5. Edit environment variable <br>
-- Click "**New**" and paste the path where the extracted files from the ZIP are located. <br>
+- Click "**New**" and paste the folder path where the extracted files from the ZIP are located. <br>
 - Example: C:\\<**folder_name**>\\<**extracted_file_name**> <br>
 - **Done? All [→ OK]**
 <br>
