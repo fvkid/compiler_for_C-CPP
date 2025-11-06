@@ -28,10 +28,10 @@
 
 ## 4. [→ Environment Variables] <br>
 - Look the "**System Variables**" and find → click "**Path**". <br>
-- **3 Options exist**: [New] [**→ Edit**] [Delete].
+- **3 Options exist**: [New] [**→ Edit**] [Delete]
 <br>
 
-## 5. Edit environment variable <br>
+## 5. [→ Edit environment variable] <br>
 - Click "**New**" and paste the folder path where the extracted files from the ZIP are located. <br>
 - Example: C:\\<**folder_name**>\\<**extracted_file_name**> <br>
 - **Done? All [→ OK]**
@@ -41,7 +41,7 @@
 
 - **Ctrl + Shift + P** <br> 
 - Search and find "**C/C++: Edit Configurations (UI)**" <br>
-- **Enter** and **2 Options** exist: <br> 1. select a **detected compiler path** from *the drop-down list* <br> 2. **fill the compiler path** with your *specify path*.
+- **Enter** and **2 Options** exist: <br> 1. select a **detected compiler path** from *the drop-down list*. <br> 2. **fill the compiler path** with your *specify path*.
 <br>
 
 ## 7. Check the GCC (GNU Compiler Collection) <br>
