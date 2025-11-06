@@ -23,7 +23,7 @@
 <br>
 
 ## 3. **System Properties** <br>
-- Go to "**Advanced**" and click "**Environment Variables"**.
+- Go to "**Advanced**" and find → click "**Environment Variables"**.
 <br>
 
 ## 4. [→ Environment Variables] <br>
@@ -40,8 +40,8 @@
 ## 6. Configuration C/C++ on Visual Studio Code <br>
 
 - **Ctrl + Shift + P** <br> 
-- 🔎 "**C/C++: Edit Configurations (UI)**" <br>
-- **Enter** and select a **detected compiler path** from *the drop-down list* or **fill the compiler path** with your *specify path*.
+- Search and find "**C/C++: Edit Configurations (UI)**" <br>
+- **Enter** and **2 Options** exist: <br> 1. select a **detected compiler path** from *the drop-down list* <br> 2. **fill the compiler path** with your *specify path*.
 <br>
 
 ## 7. Check the GCC (GNU Compiler Collection) <br>
