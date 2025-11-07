@@ -27,7 +27,7 @@ More Information @ `github.com/brechtsanders`
 - **Search Bar**
   - Search "**Edit the system environment variables**" → click "**open**".
 - **Control Panel**
-  - Search "**System**" on **Control Panel** and find "**Edit the system environment variables**".
+  - Search "**System**" on **Control Panel** and find → click "**Edit the system environment variables**".
 - Add the PATH environment variable.
 
 ## 3. **System Properties**
