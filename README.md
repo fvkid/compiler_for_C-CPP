@@ -24,8 +24,10 @@ More Information @ `github.com/brechtsanders`
   - (*`<folder_name>` - it means the custom folder with name you've created or choose the existing folder*).
 
 ## 2. Search on Search Bar or Control Panel
-- Search and open "**Edit the system environment variables**".
-- Search "**System**" on **Control Panel** and find "**Edit the system environment variables**".
+- **Search Bar**
+  - Search "**Edit the system environment variables**" → open.
+- **Control Panel**
+  - Search "**System**" on **Control Panel** and find "**Edit the system environment variables**".
 - Add the PATH environment variable.
 
 ## 3. **System Properties**
@@ -74,8 +76,12 @@ g++ <file_name>.cpp -o <file_name>.exe
 ./<file_name>.exe
 ```
 ### Note:
-- gcc ← **Compiler for #C**
-- g++ ← **Compiler for C++**
-- <file\_name>.c ← **#C File Extension**
-- <file\_name>.cpp ← **C++ File Extension**
-- -o <file\_name>.exe ← **Executable File (Compile Result)**
+- `gcc` ← **Compiler for #C**
+- `g++` ← **Compiler for C++**
+- `<file\_name>.c` ← **#C File Extension**
+- `<file\_name>.cpp` ← **C++ File Extension**
+- `-o <file\_name>.exe` ← **Compiled Executable File**
+  - `-o` ← **Output (tells the compiler what name to give the output file)**
+  - `without -o` ← **create a default name file**
+    - `a.exe` ← **(Windows)**
+    - `a.out` ← **(MacOS/Linux)**
