@@ -64,6 +64,7 @@ gcc --version
 ```
 gcc <file_name>.c -o <file_name>.exe
 ```
+
 ```
 ./<file_name>.exe
 ```
@@ -72,6 +73,7 @@ gcc <file_name>.c -o <file_name>.exe
 ```
 g++ <file_name>.cpp -o <file_name>.exe
 ```
+
 ```
 ./<file_name>.exe
 ```
@@ -85,3 +87,7 @@ g++ <file_name>.cpp -o <file_name>.exe
   - `without -o` ← **create a default name file**
     - `a.exe` ← **(Windows)**
     - `a.out` ← **(MacOS/Linux)**
+      
+---
+
+### ⚠️ Disclaimer: *This repository is for school assignment purposes only. All sources included.*
