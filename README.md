@@ -9,11 +9,11 @@
 # I. Installation Link
 
 ### [Compiler MinGW latest version](https://github.com/brechtsanders/winlibs_mingw/releases/download/15.2.0posix-13.0.0-msvcrt-r1/winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r1.zip) (Auto-download)
-More Information at: <br>
+**More Information at**: <br>
 - [`github.com/brechtsanders`](https://github.com/brechtsanders) <br>
 - [`winlibs_mingw.git`](https://github.com/brechtsanders/winlibs_mingw.git)
   
-**Note:** Always check for the latest update!
+**Note:** _Always check for the latest update!_
 
 ---
 
@@ -24,7 +24,7 @@ More Information at: <br>
 ## 1. The Path
 - Extract `.zip`, create a `folder`, and copy `the folder path`.
 - Example: `C:\<folder_name>`
-  - (*`<folder_name>` - it means the custom folder with name you've created or choose the existing folder*).
+  - (_`<folder_name>` - it means the custom folder with name you've created or choose the existing folder_).
 
 ## 2. Search on Search Bar or Control Panel
 - **Search Bar**
@@ -49,8 +49,8 @@ More Information at: <br>
 - **Ctrl + Shift + P**
 - Search and find "**C/C++: Edit Configurations (UI)**".
 - **Enter** and **2 Options** exist:
-  - **`select a detected compiler path`** from *the drop-down list*.
-  - **`fill the compiler path`** with *specify path*.
+  - **`select a detected compiler path`** from _the drop-down list_.
+  - **`fill the compiler path`** with _specify path_.
 
 ## 7. Check the GCC (GNU Compiler Collection)
 ```
@@ -91,6 +91,6 @@ g++ <file_name>.cpp -o <file_name>.exe
     - `a.exe` ← **(Windows)**
     - `a.out` ← **(MacOS/Linux)**
 
-## ⚠️ Disclaimer: *This repository is for school assignment purposes only. All sources included.*
+## ⚠️ Disclaimer: _This repository is for school assignment purposes only. All sources included._
 
 ---
