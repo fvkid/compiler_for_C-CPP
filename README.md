@@ -1,6 +1,10 @@
 # The Compiler for #C and C++
 
-### Please check out: [WinLibs on Site](https://winlibs.com/) and [Check the latest WinLibs MinGW release on GitHub](https://github.com/brechtsanders/winlibs_mingw/releases) for the latest build.
+---
+
+### Please check out the latest build:
+- [WinLibs on Site](https://winlibs.com/)
+- [The latest WinLibs MinGW release on GitHub](https://github.com/brechtsanders/winlibs_mingw/releases)
 
 ---
 
@@ -10,8 +14,8 @@
 
 ### [Compiler MinGW latest version](https://github.com/brechtsanders/winlibs_mingw/releases/download/15.2.0posix-13.0.0-msvcrt-r1/winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r1.zip) (Auto-download)
 **More Information at**: <br>
-- [`github.com/brechtsanders`](https://github.com/brechtsanders) <br>
-- [`winlibs_mingw.git`](https://github.com/brechtsanders/winlibs_mingw.git)
+- [github.com/brechtsanders](https://github.com/brechtsanders) <br>
+- [winlibs_mingw.git](https://github.com/brechtsanders/winlibs_mingw.git)
   
 **Note:** _Always check for the latest update!_
 
@@ -91,6 +95,6 @@ g++ <file_name>.cpp -o <file_name>.exe
     - `a.exe` ← **(Windows)**
     - `a.out` ← **(MacOS/Linux)**
 
-## ⚠️ Disclaimer: _This repository is for school assignment purposes only. All sources included._
+## ⚠️ Disclaimer: _This repository is for school assignment purposes only. <br> All sources included._
 
 ---
