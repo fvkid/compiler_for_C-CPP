@@ -69,7 +69,7 @@ gcc --version
 ## 9. Compile and run
 ### #C
 ```
-gcc <file_name>.c -o <file_name>.exe
+gcc <file_name>.c -o <file_name>
 ```
 
 ```
@@ -78,11 +78,11 @@ gcc <file_name>.c -o <file_name>.exe
 
 ### C++
 ```
-g++ <file_name>.cpp -o <file_name>.exe
+g++ <file_name>.cpp -o <file_name>
 ```
 
 ```
-./<file_name>.exe
+./<file_name>
 ```
 ### Note:
 - `gcc` ← **Compiler for #C**
@@ -94,6 +94,10 @@ g++ <file_name>.cpp -o <file_name>.exe
   - `without -o` ← **create a default name file**
     - `a.exe` ← **(Windows)**
     - `a.out` ← **(MacOS/Linux)**
+
+### Any Questions? Feel free to ask. Thank you
+
+---
 
 ## ⚠️ Disclaimer: _This repository is for school assignment purposes only. <br> All sources included._
 
