@@ -3,8 +3,8 @@
 ---
 
 ### Please check out the latest build:
-- [WinLibs on Site](https://winlibs.com/)
-- [The latest WinLibs MinGW release on GitHub](https://github.com/brechtsanders/winlibs_mingw/releases)
+> - [WinLibs on Site](https://winlibs.com/)
+> - [The latest WinLibs MinGW release on GitHub](https://github.com/brechtsanders/winlibs_mingw/releases)
 
 ---
 
@@ -14,12 +14,14 @@
 
 ### [Compiler MinGW latest version](https://github.com/brechtsanders/winlibs_mingw/releases/download/15.2.0posix-13.0.0-msvcrt-r1/winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64msvcrt-13.0.0-r1.zip) (Auto-download)
 **More Information at**: <br>
-- [github.com/brechtsanders](https://github.com/brechtsanders) <br>
-- [winlibs_mingw.git](https://github.com/brechtsanders/winlibs_mingw.git)
+> - [github.com/brechtsanders](https://github.com/brechtsanders) <br>
+> - [winlibs_mingw.git](https://github.com/brechtsanders/winlibs_mingw.git)
   
 **Note:** _Always check for the latest update!_
 
 ---
+
+<br>
 
 # II. Step by Step:
 
@@ -73,7 +75,7 @@ gcc <file_name>.c -o <file_name>
 ```
 
 ```
-./<file_name>.exe
+./<file_name>
 ```
 
 ### C++
@@ -87,18 +89,21 @@ g++ <file_name>.cpp -o <file_name>
 ### Note:
 - `gcc` ← **Compiler for #C**
 - `g++` ← **Compiler for C++**
-- `<file\_name>.c` ← **#C File Extension**
-- `<file\_name>.cpp` ← **C++ File Extension**
-- `-o <file\_name>.exe` ← **Compiled Executable File**
+- `<file_name>.c` ← **#C File Extension**
+- `<file_name>.cpp` ← **C++ File Extension**
+- `-o <file_name>.exe` ← **Compiled Executable File**
   - `-o` ← **Output (tells the compiler what name to give the output file)**
   - `without -o` ← **create a default name file**
     - `a.exe` ← **(Windows)**
     - `a.out` ← **(MacOS/Linux)**
 
-### Any Questions? Feel free to ask. Thank you
+<br>
+   
+## Please check related issue
+> - [The compiler path auto-detection issue](https://github.com/fvkid/compiler_for_C-CPP/issues/2)
 
----
+<br>
 
-## ⚠️ Disclaimer: _This repository is for school assignment purposes only. <br> All sources included._
+## ⚠️ Disclaimer: _School assignment purposes only. All sources included._
 
 ---
