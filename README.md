@@ -100,7 +100,7 @@ g++ <file_name>.cpp -o <file_name>
 <br>
    
 ## Please check related issue
-> - [The compiler path auto-detection issue](https://github.com/fvkid/compiler_for_C-CPP/issues/2)
+- [The compiler path auto-detection issue](https://github.com/fvkid/compiler_for_C-CPP/issues/2)
 
 <br>
 
