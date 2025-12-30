@@ -1,4 +1,4 @@
-# The Compiler for #C and C++
+# The Compiler for C and C++
 
 ---
 
@@ -65,11 +65,11 @@ gcc --version
 
 ## 8. Create a File for #C and C++ File Extension
 - Example:
-  - `<file_name>.c` (**#C**)
+  - `<file_name>.c` (**C**)
   - `<file_name>.cpp` (**C++**)
 
 ## 9. Compile and run
-### #C
+### C
 ```
 gcc <file_name>.c -o <file_name>
 ```
@@ -87,9 +87,9 @@ g++ <file_name>.cpp -o <file_name>
 ./<file_name>
 ```
 ### Note:
-- `gcc` ← **Compiler for #C**
+- `gcc` ← **Compiler for C**
 - `g++` ← **Compiler for C++**
-- `<file_name>.c` ← **#C File Extension**
+- `<file_name>.c` ← **C File Extension**
 - `<file_name>.cpp` ← **C++ File Extension**
 - `-o <file_name>.exe` ← **Compiled Executable File**
   - `-o` ← **Output (tells the compiler what name to give the output file)**
